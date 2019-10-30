@@ -4,7 +4,7 @@
 
 個人開発用にLaravel5.5に諸々パッケージを同梱した物。
 
-現状下記のパッケージを入れている。
+現状、下記のパッケージを入れている。
 
 - barryvdh/laravel-debugbar
 - barryvdh/laravel-ide-helper
